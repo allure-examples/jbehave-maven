@@ -1,0 +1,1 @@
+{"30907ba0106b72487a0be9c487538122":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"26b41d2f9fefbcd6","reportUrl":"https://allure-examples.github.io/jbehave-maven/2//#testresult/26b41d2f9fefbcd6","status":"passed","time":{"start":1711436923827,"stop":1711436923853,"duration":26}}]}}
