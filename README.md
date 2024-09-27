@@ -1,6 +1,6 @@
 # Allure Example
 
-> Example of Allure Report usage with JBehave, Jave 21 and Maven
+> Example of Allure Report usage with JBehave, Java 21 and Maven
 
 <!--<img src="https://allurereport.org/public/img/allure-report.svg" alt="Allure Report logo" style="float: right" />-->
 
